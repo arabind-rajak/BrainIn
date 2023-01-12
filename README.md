@@ -1,5 +1,3 @@
-![Banner_final](https://user-images.githubusercontent.com/62587060/170310091-19c3c843-f859-42fb-898f-1b3ea5b7005d.png)
-
 # BrainIN - SMART_ATTENDENCE_APP_SIH_2022
 This is an Android Application developed for Smart India hackathon 2022 Programme.<br />
 It's an Smart Attendance App that is powered by face recognition technology.<br />
