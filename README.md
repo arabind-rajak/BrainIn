@@ -42,16 +42,6 @@ The UI/UX is really simple and self explanatory, the user will not face any issu
 - Follow this video for reference - <br />
 - **Important** (Before deleteing your account from Firebase Authentication, logout first and delete the Firebase Realtime Database of your userID Node)
 
-
-## 🍴 Fork/Clone the project
-- Clone the repository by the following link and open the project in Android Studio or Git Bash
-- ```bash
-  https://github.com/binayshaw7777/Face-Recognition_Engage-2022.git
-- Connect it to your Firebase Account
-- Add Email Authentication, Realtime Database and Firebase Storage.
-- Follow the above steps to create account and proceed
-- **Important** (Before deleteing your account from Firebase Authentication, logout first and delete the Firebase Realtime Database of your userID Node)
-
 ## 🤔 How it works?
 - Intialially during registration the user's face embeddings is stored in a HashMap as value with a key that is same of all users "added".<br />
 - Then after signin in, the key "added" is replaced with the userID -> <UserID, Embeddings> and stored in the user's Node<br />
