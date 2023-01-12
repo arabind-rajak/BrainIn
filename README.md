@@ -5,9 +5,6 @@ This is an Android Application developed for Smart India hackathon 2022 Programm
 It's an Smart Attendance App that is powered by face recognition technology.<br />
 The UI/UX is really simple and self explanatory, the user will not face any issues.<br />
 
-## 📕 Resources
-- Supporting Documents - [Documents](https://drive.google.com/drive/folders/1jf2ofhPqel-6Fn9p6Fe_sjGvDqyWAWK0?usp=sharing)
-
 ## 💻 Tech Stack used 
 - **Java** - Developed using Android studio and Java as developing Language
 - **Figma** - [**Designed using Figma**](https://www.figma.com/file/jjNrOhXOxz2nnSpAYamNsA/PresIN-Engage?node-id=107%3A21)
